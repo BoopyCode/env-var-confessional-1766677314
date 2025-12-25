@@ -1,0 +1,2 @@
+# No external dependencies - just pure Node.js salvation
+# (But you might need forgiveness for your ENV sins)
